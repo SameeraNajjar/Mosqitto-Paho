@@ -43,7 +43,7 @@ Copy code
 ### Step 1 — Open VS Code or PowerShell
 Navigate to project folder:
 
-```powershell
+```powershell```
 cd C:\Users\USER-Q\Documents\mqtt_lab
 Step 2 — Run Subscribers (one per terminal)
 powershell
