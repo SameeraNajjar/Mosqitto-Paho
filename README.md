@@ -33,10 +33,6 @@ mqtt_lab/
 ├─ people_subscriber.py
 └─ screenshots/ # save your screenshots here
 
-yaml
-Copy code
-
----
 
 ## **3. How to Run**
 
