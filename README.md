@@ -46,14 +46,14 @@ Navigate to project folder:
 ```powershell```
 cd C:\Users\USER-Q\Documents\mqtt_lab
 
-###Step 2 — Run Subscribers (one per terminal)
+### Step 2 — Run Subscribers (one per terminal)
 powershell
 Copy code
 python temp_subscriber.py
 python humidity_subscriber.py
 python people_subscriber.py
 
-###Step 3 — Run Publishers (one per terminal)
+### Step 3 — Run Publishers (one per terminal)
 powershell
 Copy code
 python temp_publisher.py
