@@ -61,7 +61,7 @@ python humidity_publisher.py
 python people_publisher.py
 Subscribers will start receiving messages from the corresponding publishers in real-time.
 
-## ** 4. Example Output **
+## **4. Example Output**
 Publisher (Temperature)
 makefile
 Copy code
@@ -76,7 +76,7 @@ Received: ID=12114875, Temperature=21
 Received: ID=12114875, Temperature=30
 The same behavior occurs for Humidity and People Counter.
 
-## ** 5. Screenshots **
+## **5. Screenshots**
 Add screenshots of each script running in the screenshots/ folder. Example:
 
 Script	Screenshot
@@ -89,7 +89,7 @@ people_subscriber.py
 
 Replace the image filenames with the actual screenshots you take.
 
-## ** 6. Notes **
+## **6. Notes**
 Messages include Student ID (12114875) for tracking.
 
 Random values simulate sensor data.
